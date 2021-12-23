@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER":"admit-shubhanker",
+    "DB_NAME":"pinplace",
+    "DB_PASSWORD":"Test123",
+    "API_KEY":"AIzaSyDZmvQ-GiUgt1N7MU40BqApr6hC5XGR2eo",
+    "JWT_KEY":"supersecret_dont_share"
+  }
+}
